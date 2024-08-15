@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Lakshana-r
+- 👀 I’m interested in web development and UI/UX Design
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on open-source web development projects, especially those that focus on improving user experience and interface design.
+- 📫 How to reach me lakshanalakshanakrishnaveni@gmail.com
+- 😄 Pronouns:She/Her.
+- ⚡ Fun fact:I love creating digital art and often incorporate my designs into my web projects.
